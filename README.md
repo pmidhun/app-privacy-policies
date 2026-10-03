@@ -3,7 +3,7 @@
 Public privacy policy pages for apps published to the Google Play Store, served via
 [GitHub Pages](https://pages.github.com/).
 
-Live site: `https://<your-github-username>.github.io/app-privacy-policies/`
+Live site: `https://pmidhun.github.io/app-privacy-policies/`
 
 ## Adding a new app
 
